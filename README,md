@@ -1,0 +1,32 @@
+Marketing Funnel Analysis Dashboard 📊
+
+This project presents an analysis of an online retail marketing funnel using Power BI.
+
+Dataset
+
+The dataset used for this analysis was obtained from Kaggle and contains information about visitors, leads, and customer conversions.
+
+Objective
+
+The goal of this project is to analyze the marketing funnel and understand how users move from website visitors → leads → customers, and identify possible drop-off points in the funnel.
+
+Tools Used
+
+- Power BI
+- Data Cleaning and Visualization
+- Marketing Funnel Analysis
+
+Key Insights
+
+- Sales show strong seasonality, with the highest revenue generated in Q4, especially in November.
+- A small number of top-selling products contribute significantly to overall revenue.
+- Conversion rates highlight potential drop-off points between visitors and leads.
+
+Files in this Repository
+
+- "FUTURE_DS_01.pbix" – Power BI dashboard file
+- "FUTURE_DS_01.png" – Dashboard visualization image
+
+Task
+
+This project was completed as Task 1 of the Future Intern Data Science Internship Program.
